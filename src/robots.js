@@ -1,62 +1,74 @@
 export const robots = [
   {
     id: 1,
-    name: 'Leanne Graham',
-    username: 'Bret',
-    email: 'Sincere@april.biz'
+    name: 'Bolawole Oluwanifemi',
+    username: 'NifeBola',
+    email: 'nife@gmail.com'
   },
   {
     id: 2,
-    name: 'Ervin Howell',
-    username: 'Antonette',
-    email: 'Shanna@melissa.tv'
+name: 'Umoru Abdulazeez',
+username: 'ZeezUmoru',
+email: 'azeez_umoru@yahoo.com'
   },
   {
     id: 3,
-    name: 'Clementine Bauch',
-    username: 'Samantha',
-    email: 'Nathan@yesenia.net'
+    name: 'Oguntade Tawheed',
+    username: 'TawheedO',
+    email: 'tawheed_oguntade@gmail.com'
   },
   {
     id: 4,
-    name: 'Patricia Lebsack',
-    username: 'Karianne',
-    email: 'Julianne.OConner@kory.org'
+name: 'Falola James',
+username: 'JammyJames',
+email: 'james_falola@gmail.com'
   },
   {
     id: 5,
-    name: 'Chelsey Dietrich',
-    username: 'Kamren',
-    email: 'Lucio_Hettinger@annie.ca'
+name: 'Bisiriyu Sodiq',
+username: 'SodiqB',
+email: 'sodiq.bisi@gmail.com'
   },
   {
     id: 6,
-    name: 'Mrs. Dennis Schulist',
-    username: 'Leopoldo_Corkery',
-    email: 'Karley_Dach@jasper.info'
+name: 'Afon Sharon',
+username: 'SharonAfon',
+email: 'sharon.afon@yahoo.com'
   },
   {
     id: 7,
-    name: 'Kurtis Weissnat',
-    username: 'Elwyn.Skiles',
-    email: 'Telly.Hoeger@billy.biz'
+    name: 'Akano Aliyu',
+    username: 'AliyuAkano',
+    email: 'aliyu.akano@gmail.com'
   },
   {
     id: 8,
-    name: 'Nicholas Runolfsdottir V',
-    username: 'Maxime_Nienow',
-    email: 'Sherwood@rosamond.me'
+    name: 'Fakorede Oluwaleke',
+    username: 'LekeFakorede',
+    email: 'leke.fakorede@hotmail.com'
   },
   {
     id: 9,
-    name: 'Glenna Reichert',
-    username: 'Delphine',
-    email: 'Chaim_McDermott@dana.io'
+name: 'Aniyi Steven',
+username: 'SteveAniyi',
+email: 'steven.aniyi@gmail.com'
   },
   {
     id: 10,
-    name: 'Clementina DuBuque',
-    username: 'Moriah.Stanton',
-    email: 'Rey.Padberg@karina.biz'
+    name: 'Maxmilian Agbakwuru',
+username: 'MaxAgba',
+email: 'max.agba@yahoo.com'
+  },
+  {
+    id: 11,
+    name: 'Ogunsola Eniola',
+username: 'EniOgun',
+email: 'eniola.ogunsola@gmail.com'
+  },
+  {
+    id: 12,
+    name: 'Yusuf Abdulhafeez',
+username: 'HafeezYusuf',
+email: 'yusuf.hafeez@hotmail.com'
   }
 ];
